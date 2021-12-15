@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zihao-Ding
-- 👀 I’m interested in autonomous vehicle and mechine learning
+- 👀 I’m interested in autonomous vehicle and machine learning
 - 🌱 I’m currently learning model-based reinforcement learning and graph neural network
 - 💞️ I’m looking to collaborate on research
 - 📫 How to reach me ...
